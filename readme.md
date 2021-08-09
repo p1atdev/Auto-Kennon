@@ -46,3 +46,8 @@ Thanks!
 ## なんか動かねえんだけど
 エラーが出てるっぽいならエラーメッセージをそのままコピペしてググると解決策が出ます。
 大体はChromeのバージョンの差異によるエラーだと思いますがググってください。
+
+# 参考文献
+- [pythonを使ってMicrosoft Formsを自動送信する方法(Mac版)](
+https://qiita.com/kataoka_ys/items/43c20f912178e796a838)
+- [【Selenium】ChromeDriverを自動更新するPythonライブラリが便利](https://yuki.world/python-selenium-chromedriver-auto-update/#t_webdriver_managerdriver)
