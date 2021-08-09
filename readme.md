@@ -8,7 +8,7 @@ pip3 install -r requirements.txt
 ```
 これで `selenium` と `webdriver-manager` がインストールされます(多分)
 
-# How to use
+## Usage
 使い方は `main.py` の `url` 、`email` 、`password` を自分のものに置き換えてから `python3 main.py` を実行してください。
 置き換え後の `main.py` はこんな感じになります.
 ```python3
@@ -42,3 +42,7 @@ Thanks!
 ```
 
 `Thanks!` の部分にはFormを送信後に表示される画面のメッセージが出ます。Formや環境によっては `Thanks!` ではない場合もあります。
+
+## なんか動かねえんだけど
+エラーが出てるっぽいならエラーメッセージをそのままコピペしてググると解決策が出ます。
+大体はChromeのバージョンの差異によるエラーだと思いますがググってください。
