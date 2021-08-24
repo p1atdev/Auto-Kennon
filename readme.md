@@ -29,7 +29,7 @@ password = "password"
 ====== WebDriver manager ======
 Current google-chrome version is 92.0.4515
 Get LATEST driver version for 92.0.4515
-Driver [/Users/shuteiei/.wdm/drivers/chromedriver/mac64/92.0.4515.107/chromedriver] found in cache
+Driver [/Users/username/.wdm/drivers/chromedriver/mac64/92.0.4515.107/chromedriver] found in cache
 main.py:15: DeprecationWarning: use options instead of chrome_options
   browser = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=options)
 アクセス成功
